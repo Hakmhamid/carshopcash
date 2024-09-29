@@ -9,6 +9,7 @@ app.use(express.json());
 let tables = [
     { id: 1, inUse: false, startTime: null, totalCharge: 0 },
     { id: 2, inUse: false, startTime: null, totalCharge: 0 },
+    { id: 3, inUse: false, startTime: null, totalCharge: 0 },
     { id: 4, inUse: false, startTime: null, totalCharge: 0 },
     { id: 5, inUse: false, startTime: null, totalCharge: 0 },
     { id: 6, inUse: false, startTime: null, totalCharge: 0 },
